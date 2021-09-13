@@ -3,4 +3,4 @@ A system becomes unstable when the electrical power input fed to the motor is le
 
 The simulation of the single machine system is given in PSA_mod1.slx.
 The simulation of the single machine system is given in PSA_final.slx.
-The report and the simulation guide is given is PSA_report.
+The report and the simulation guide is given is PSAreport.
